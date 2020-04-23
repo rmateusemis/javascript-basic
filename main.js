@@ -10,6 +10,8 @@ alert("¡Me llamo Roger!");
 // Exercici 03
 var name = "Roger"
 var lastName = "Mateu"
+
+
 // Exercici 04
 var num1 = 6;
 var num2 = 4;
